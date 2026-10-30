@@ -1,0 +1,39 @@
+.header {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.h1 {
+    font-weight: bolder;
+}
+
+.nav {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.form-container {
+    border: solid black 3px;
+    display: flex;
+    flex-direction: column;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10%;
+}
+
+.contact-section {
+    background-color: greenyellow;
+}
+
+.footer {
+    background-color: aqua;
+    text-align: center;
+}
